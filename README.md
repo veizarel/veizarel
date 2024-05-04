@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, C++**
 
-- ⚡ Fun fact **Chairman in Student Council.**
+- ⚡ Fun fact - **I'm Chairman in Student Council.**
 
 <p align="left">
 </p>
