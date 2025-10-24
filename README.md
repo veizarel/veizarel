@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Velizar N. Chandar</h1>
-<h3 align="center">20 YEARS OLD // STUDYING BACHELOR IN INFORMATICS AND COMPUTING SCIENCE IN VFU</h3>
+<h3 align="center">21 YEARS OLD // STUDYING BACHELOR IN INFORMATICS AND COMPUTING SCIENCE IN VFU</h3>
 
 - 🌱 I’m currently learning **C#, C++**
 
