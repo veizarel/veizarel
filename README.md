@@ -1,14 +1,14 @@
 # Hi 👋, I'm Velizar N. Chandar
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Informatics+Student+@+VFU;Aspiring+Software+Engineer;Proven+Student+Leader" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
-I am a 21-year-old **Informatics and Computing Science** student at Varna Free University (VFU). I thrive at the intersection of technical problem-solving and proactive leadership.
+I am a 22-year-old **Informatics and Computing Science** student at Varna Free University (VFU). I thrive at the intersection of technical problem-solving and proactive leadership.
 
 - 🌱 Currently deep-diving into: **C# and C++**
-- ⚡ **Fun fact:** I hold the record for being the fastest elected Chairman in the history of the Student Council.
+- ⚡ **Fun fact:** I hold the record for being the fastest elected Chairman in the history of the Student Council in VFU.
 - 🎯 My goal: Building efficient software while maintaining a sharp eye for design and user experience.
 
 ---
@@ -23,19 +23,11 @@ I am a 21-year-old **Informatics and Computing Science** student at Varna Free U
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veizarel&show_icons=true&theme=tokyonight&hide_border=true" alt="Velizar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veizarel&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vnchandar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 <p align="center">
-  <i>"Leadership is not a position, it's an action."</i>
+  <i>"The best way to predict the future is to create it. - Peter Drucker."</i>
 </p>
